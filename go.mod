@@ -1,4 +1,4 @@
-module github.com/ava-labs/avalanche-network-runner-sdk
+module github.com/memeticofficial/pepecoin-network-runner-sdk
 
 go 1.18
 
