@@ -1,4 +1,4 @@
-module github.com/memeticofficial/pepecoin-network-runner-sdk
+module github.com/based-ai/basedai-network-runner-sdk
 
 go 1.18
 
